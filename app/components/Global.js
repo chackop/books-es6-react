@@ -15,7 +15,7 @@ constructor(props) {
 
     render() {
         return {
-         <div >
+         <div className="Global">
             <h2> Book store</h2>
             <FormGroup>
                 <InputGroup>
